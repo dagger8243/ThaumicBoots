@@ -1,10 +1,10 @@
 package thaumicboots.main;
 
-import cpw.mods.fml.common.event.*;
 import net.minecraftforge.common.MinecraftForge;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.*;
 import cpw.mods.fml.common.event.FMLMissingMappingsEvent.MissingMapping;
 import thaumicboots.events.BootsEventHandler;
 import thaumicboots.main.utils.CalendarHelper;
